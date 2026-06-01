@@ -1,9 +1,7 @@
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanmay.gautam10@gmail.com)
-<a href="https://linkedin.com" target="_blank">
-  <img src="https://githubusercontent.com" alt="LinkedIn" height="30" width="40" />
-</a>
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/tanmay-gautam-59443b23/)
 
 
 
